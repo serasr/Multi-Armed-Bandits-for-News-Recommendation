@@ -39,6 +39,7 @@ Evaluated on **800 rounds** of real news recommendation data (10,000 total artic
 ### Performance Over Time
 
 ![Cumulative Reward Plot](results/cumulative_reward.png)
+
 *Running average cumulative reward showing convergence behavior*
 
 **Key findings:**
